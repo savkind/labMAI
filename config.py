@@ -1,0 +1,4 @@
+id_admin = 967676469
+token = "2014503637:AAEFTzZFJTp27Y716H_pBr3ZI5DwOATldw8"
+
+
